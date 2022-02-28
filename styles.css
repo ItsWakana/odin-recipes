@@ -28,10 +28,14 @@ p {
     
 }
 
-#recipe-head {
+.recipe-head {
+    background-color:black;
+    color:white;
     text-align:left;
     font-size:25px;
     height:34px;
+    padding-left:6px;
+    margin-bottom:-25px;
 }
 
 .img-main {
@@ -44,11 +48,24 @@ p {
 .method {
     background-color:black;
     color:white;
-    padding:20px;
+    padding:5px;
     padding-left:30px;
+    padding-bottom:30px;
 }
 
 .img {
     display:block;
+    padding-left:0px;
+}
+
+h3 {
+    padding-left:6px;
+    text-decoration:underline;
+}
+
+.home {
+    background-color:black;
+    color:white;
+    font-size:16px;
     
 }
