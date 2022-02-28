@@ -2,3 +2,12 @@ div > div1 {
     font-size:20px;
     font-family:sans-serif;
 }
+
+.Title {
+    font-size:50px;
+    font-family:sans-serif;
+    background-color: black;
+    height:70px;
+    text-align:center;
+    color:white;
+}
