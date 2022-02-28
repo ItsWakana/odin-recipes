@@ -44,7 +44,6 @@ p {
     margin-right:auto;
 }
 
-
 .ingredients,
 .method {
     background-color:black;
@@ -53,6 +52,14 @@ p {
     padding-left:30px;
     padding-bottom:30px;
     border-radius:25px;
+}
+
+.ingredients {
+    inline-size:400px;
+}
+
+.method {
+    inline-size: 800px;
 }
 
 .img {
