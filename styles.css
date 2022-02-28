@@ -14,6 +14,12 @@ div > div1 {
     
 }
 
+#recipe-head {
+    text-align:left;
+    font-size:25px;
+    height:34px;
+}
+
 .img-main {
     display:block;
     margin-left:auto;
